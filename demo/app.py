@@ -13,7 +13,9 @@ from utils import (
 )
 
 DOC_STORE_FOLDER = 'doc_stores'
-OPENAI_API_KEY = load_json(bucket='knowledge-base-assist-demo', key='openai_api_key.json')['Key']
+S3_BUCKET = 'knowledge-base-assist-demo'
+OPENAI_API_S3_KEY = 'openai_api_key.json'
+OPENAI_API_KEY = load_json(bucket=S3_BUCKET, key=OPENAI_API_S3_KEY)['Key']
 
 # Load Document Stores
 whole_doc_store = load_pickle(file_name=f'{DOC_STORE_FOLDER}/whole_doc_store.pkl')
