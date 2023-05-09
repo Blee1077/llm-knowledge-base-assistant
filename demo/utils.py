@@ -45,7 +45,31 @@ def load_pickle(file_name: str):
         return pickle.load(f)
 
 
-def load_json(bucket: str, key: str) -> dict:
+def load_json_file(file_path) -> dict:
+    """Load a local JSON file into a dictionary in Python.
+
+    Parameters:
+        file_path (str): The path to the JSON file to load.
+
+    Returns:
+        dict: A dictionary containing the contents of the JSON file.
+
+    Raises:
+        FileNotFoundError: If the specified file path does not exist.
+        ValueError: If the file contents cannot be parsed as valid JSON.
+    """
+    try:
+        # Open the JSON file and load its contents into a Python dictionary
+        with open(file_path, 'r') as f:
+            data = json.load(f)
+        return data
+    except FileNotFoundError:
+        raise FileNotFoundError(f"File not found: {file_path}")
+    except ValueError:
+        raise ValueError(f"Invalid JSON in file: {file_path}")
+
+
+def load_json_from_s3(bucket: str, key: str) -> dict:
     """Loads a JSON file from S3 bucket.
     
     Args:

@@ -5,7 +5,8 @@ from typing import Tuple, Dict
 from utils import (
     INITIAL_TEMPLATE,
     load_pickle,
-    load_json,
+    load_json_file,
+    load_json_from_s3,
     create_initial_pipe,
     create_lfqa_section_doc_pipe,
     create_lfqa_whole_doc_pipe,
@@ -13,9 +14,8 @@ from utils import (
 )
 
 DOC_STORE_FOLDER = 'doc_stores'
-S3_BUCKET = 'knowledge-base-assist-demo'
-OPENAI_API_S3_KEY = 'openai_api_key.json'
-OPENAI_API_KEY = load_json(bucket=S3_BUCKET, key=OPENAI_API_S3_KEY)['Key']
+S3_CONFIG = load_json_file('s3_config.json')
+OPENAI_API_KEY = load_json_from_s3(bucket=S3_CONFIG['S3_BUCKET'], key=S3_CONFIG["OPENAI_API_S3_KEY"])['Key']
 
 # Load Document Stores
 whole_doc_store = load_pickle(file_name=f'{DOC_STORE_FOLDER}/whole_doc_store.pkl')
