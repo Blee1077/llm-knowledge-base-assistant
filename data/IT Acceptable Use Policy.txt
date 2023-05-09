@@ -1,0 +1,167 @@
+1. Introduction
+The purpose of this Information Technology Acceptable Use Policy (AUP) is to define the acceptable use of Dunder Mifflin Paper Company, Inc. ("Dunder Mifflin" or the "Company") technology resources, including but not limited to computers, servers, computer networks, communication and mail servers, and other technology-related resources. This policy aims to protect the integrity of the company's technology infrastructure, ensure the efficient use of resources, and safeguard company information and intellectual property.
+
+2. Employee Access to Computers
+2.1 Authorization and Authentication
+
+Employees are provided with access to company computers and related resources for the purpose of conducting Dunder Mifflin business. Access to these resources will be granted based on job roles and responsibilities. Employees are required to authenticate their identity using unique login credentials and follow established procedures for requesting additional access as needed.
+
+2.2 Personal Use
+
+Personal use of company computers and resources should be limited and should not interfere with the performance of work duties or the efficient operation of the company's technology infrastructure. Excessive personal use, including but not limited to social media, online gaming, and personal email, may result in disciplinary action, up to and including termination of employment.
+
+3. Use of Computer Resources
+3.1 Responsible Use
+
+Employees must use computer resources responsibly and in accordance with this AUP and other company policies. This includes ensuring that company-owned devices are used primarily for business purposes and are not used to engage in activities that may harm the company's reputation or expose it to legal or financial risks.
+
+3.2 Misuse and Consequences
+
+Misuse of computer resources, including excessive personal use, may result in disciplinary action, up to and including termination of employment. Examples of misuse include, but are not limited to:
+
+Engaging in harassment, discrimination, or any form of inappropriate or offensive behavior
+Accessing or sharing illegal or offensive content
+Unauthorized use of company resources for personal gain or financial benefit
+Unauthorized copying, distribution, or alteration of copyrighted material or company-owned intellectual property
+Deliberate introduction of malware or other harmful software
+Unauthorized access to or tampering with company systems or data
+
+4.Computer Security
+4.1 General Security Measures
+
+Employees are responsible for maintaining the security of company computers and related resources. This includes:
+
+Keeping computer workstations locked when unattended
+Ensuring that antivirus software is up-to-date and running on all devices
+Reporting any suspected security breaches or incidents to the IT department
+Regularly updating operating systems and software to address security vulnerabilities
+Using secure connections and encryption when transmitting sensitive or confidential information
+
+4.2 Mobile Device Security
+
+Employees who use company-issued mobile devices, such as smartphones or tablets, are responsible for ensuring the security of these devices. This includes:
+
+Using strong, unique passwords or other authentication methods, such as biometrics
+Enabling remote wipe and device tracking features, where available
+Reporting lost or stolen devices to the IT department immediately
+Not storing sensitive or confidential company information on personal devices without authorization and appropriate security measures
+
+5. Password Protection
+5.1 Strong Passwords
+
+Employees must use strong, unique passwords for all company accounts and systems. A strong password should:
+
+Be at least 12 characters long
+Include a mix of uppercase and lowercase letters, numbers, and special characters
+Not contain easily guessable information, such as names, birthdates, or common phrases
+
+5.2 Password Management
+
+Passwords should not be shared with others or written down where they can be easily discovered. Passwords should be changed regularly, and employees are encouraged to use a password manager to store and manage their passwords securely.
+
+5.3 Multi-Factor Authentication
+
+Where available, employees should use multi-factor authentication (MFA) to provide an additional layer of security for their company accounts. MFA requires users to present two or more pieces of evidence (or factors) to verify their identity. These factors may include something the user knows (e.g., a password), something the user has (e.g., a security token), or something the user is (e.g., a fingerprint).
+
+6. Email and Internet Usage
+6.1 Acceptable Use
+
+Email and internet usage should be primarily for business purposes. Incidental personal use is allowed, provided that it does not interfere with the employee's job responsibilities or the company's operations. Employees should avoid excessive use of streaming services, social media, or other bandwidth-intensive activities that may impact network performance.
+
+6.2 Email Etiquette
+
+Employees should maintain professional and respectful communication in all email correspondence. This includes using clear and concise language, proper grammar and punctuation, and avoiding the use of offensive or inappropriate language. When sending emails to multiple recipients or large groups, employees should use the "Bcc" field to protect the privacy of recipients' email addresses.
+
+6.3 Phishing and Malware Protection
+
+Employees should exercise caution when opening email attachments or clicking on links from unknown sources, as these may contain malware or phishing attempts. Employees should report any suspicious emails or messages to the IT department for investigation.
+
+6.4 Spam and Junk Mail
+
+Employees should not use company email accounts to send or forward spam, chain letters, or other unsolicited messages. If employees receive spam or junk mail, they should delete it without opening or responding.
+
+7. Data Communication
+7.1 Secure Transmission
+
+Employees are responsible for ensuring that all data communication is conducted in a secure and confidential manner. This includes using encrypted communication methods when transmitting sensitive or confidential information and being cautious when discussing sensitive information in public or open areas.
+
+7.2 File Sharing
+
+Employees should use company-approved file sharing and collaboration tools for exchanging files or documents with colleagues, clients, or other business partners. Employees must not use personal or unapproved file-sharing services for sharing company-related files or information.
+
+8. Accessing Inappropriate or Unlawful Material
+Employees must not use company computers or resources to access, download, or distribute inappropriate or unlawful material. This includes but is not limited to pornography, copyrighted material, or any material that may be considered offensive, discriminatory, or harassing. Employees who encounter inappropriate or unlawful material on company systems should report the incident to their supervisor or the IT department for investigation and resolution.
+
+9. Changing or Altering Confidential Information
+9.1 Authorization and Accountability
+
+Employees must not alter or modify confidential information without proper authorization. Unauthorized changes to data or records may result in disciplinary action, up to and including termination of employment. Employees who are authorized to make changes to confidential information are responsible for ensuring the accuracy and integrity of the data.
+
+9.2 Data Backup and Version Control
+
+To protect against data loss or corruption, employees should follow company guidelines for backing up and storing important files and information. This includes using version control systems, where applicable, to track changes and maintain a history of file modifications.
+
+10. Sharing Confidential Information or Intellectual Property
+10.1 Internal Sharing
+
+Employees must only share confidential information or intellectual property with authorized individuals within the company on a need-to-know basis. Information should be shared using secure methods, such as encrypted email or approved file-sharing platforms.
+
+10.2 External Sharing
+
+Any sharing of confidential information with external parties, such as clients, vendors, or partners, must be done in accordance with company policies and applicable laws and regulations. Employees should obtain approval from their supervisor or the appropriate department before disclosing confidential information to external parties.
+
+11. Unauthorized Access and File Usage
+11.1 Access Controls
+
+Employees must not access or use files, data, or resources belonging to others without proper authorization. Accessing another employee's files or resources without permission may be considered a violation of this AUP and may result in disciplinary action.
+
+11.2 Reporting Unauthorized Access
+
+Employees who become aware of unauthorized access to files, data, or resources should immediately report the incident to their supervisor or the IT department for investigation and resolution.
+
+12. Software Installation
+12.1 Approval Process
+
+Employees must not install any software on company computers without prior approval from the IT department. Unauthorized software installations may introduce security risks, impact system performance, or violate licensing agreements.
+
+12.2 License Compliance
+
+Employees must ensure that all software installed on company computers is properly licensed and used in accordance with the terms and conditions of the applicable software licenses. The IT department will maintain records of software licenses and conduct periodic audits to ensure compliance.
+
+13. Monitoring of Computer Resources and Logs
+13.1 Monitoring Purpose
+
+Dunder Mifflin reserves the right to monitor the use of its computer resources, including but not limited to internet browsing history, email, and system logs. Monitoring may be conducted to ensure compliance with this AUP, maintain system security, or investigate suspected policy violations or illegal activities.
+
+13.2 Employee Privacy
+
+While Dunder Mifflin respects employee privacy, employees should be aware that they have no expectation of privacy when using company-provided technology resources. Employees should exercise discretion when using company systems for personal communications or activities.
+
+14. Secure Remote Login
+14.1 Remote Access Approval
+
+Employees who require remote access to company systems must use secure login methods, such as VPNs, and follow company guidelines for remote work. Any remote access must be approved by the IT department and comply with all security policies and procedures.
+
+14.2 Remote Work Security
+
+Employees working remotely are responsible for maintaining the security of their home networks and devices. This includes keeping software up-to-date, using strong passwords and encryption, and ensuring that sensitive or confidential information is protected from unauthorized access or theft.
+
+15. File Storage and Backup
+15.1 Company-Approved Storage Solutions
+
+Employees are responsible for ensuring that their files are properly stored and backed up. This includes using company-approved file storage solutions, such as cloud storage or network drives, and adhering to any data retention policies or guidelines.
+
+15.2 Regular Backups
+
+Employees should also regularly back up important files to prevent data loss in the event of a system failure or other incident. The IT department will provide guidance and assistance with data backup procedures, as needed.
+
+16. Policy Compliance
+16.1 Employee Responsibilities
+
+All employees are responsible for adhering to this Information Technology Acceptable Use Policy and ensuring compliance with applicable laws and regulations. Violations of this AUP may result in disciplinary action, up to and including termination of employment.
+
+16.2 Reporting Violations
+
+Employees who are aware of or suspect a violation of this policy should report the issue to their supervisor or the IT department for investigation and resolution. Reports can be made anonymously, if desired, and employees who report violations in good faith will be protected from retaliation.
+
+By following this Information Technology Acceptable Use Policy, employees can ensure the secure and efficient use of Dunder Mifflin's technology resources while protecting the company's information and intellectual property.

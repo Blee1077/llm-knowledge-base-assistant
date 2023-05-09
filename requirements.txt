@@ -1,0 +1,7 @@
+# Development dependencies
+gradio
+farm-haystack
+boto3
+
+# Deployment dependency
+aws-cdk-lib
