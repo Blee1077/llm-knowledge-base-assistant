@@ -7,7 +7,7 @@ ENV READINESS_CHECK_PROTOCOL="tcp"
 ENV ASYNC_INIT="false"
 
 WORKDIR /var/task
-COPY demo/app.py demo/utils.py demo/requirements.txt  ./
+COPY demo/app.py demo/utils.py demo/requirements.txt ./s3_config.json  ./
 COPY demo/doc_stores/  ./doc_stores/
 RUN python3 -m pip install -r requirements.txt -t .
 
